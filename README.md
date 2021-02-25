@@ -1,9 +1,13 @@
 # gifted-chatbot
 This React Native project uses react-native-gifted-chat, DialogFlow, and Firebase.
 
-Initiating your project
+Installing react-native-cli
 
 $ npm install -g react-native-cli
+
+-------------------------------------
+
+Initiating your project
 
 -------------------------------------
 $ react-native init YourProjectName
