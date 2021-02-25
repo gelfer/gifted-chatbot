@@ -9,7 +9,6 @@ $ npm install -g react-native-cli
 
 Initiating your project
 
--------------------------------------
 $ react-native init YourProjectName
 
 -------------------------------------
